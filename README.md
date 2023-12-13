@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**kalish93/kalish93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Kaleab!
+👨‍💻 Software Engineer | full stack developer
+🔭 Exploring new technologies and developing software solutions
+- 🔭 I’m currently working on full stack web development
+🌱 Learning more about blockchain, machine learning and artificial intelligence
+💬 Ask me about JavaScript, Python, angular, laravel, .Net and web development
+📫 How to reach me: Kaleabtekalign@gmail.com
 
-Here are some ideas to get you started:
+⚛️ React 🔗 Laravel #️⃣ .NET 🅰️ Angular 🦋 Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
