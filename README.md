@@ -1,3 +1,5 @@
+
+<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 ### Hi there 👋
 
 -👋 Hello, I'm Kaleab Tekalign!
@@ -15,7 +17,3 @@
 -📫 How to reach me: Kaleabtekalign@gmail.com
 
 ⚛️ React 🔗 Laravel #️⃣ .NET 🅰️ Angular 🦋 Flutter
-
-
-Languages and Tools:
-android angular angularjs bash bootstrap c chartjs csharp css3 cypress dart docker dotnet express figma firebase flask flutter git heroku html5 java javascript jenkins kotlin linux mongodb nginx nodejs postgresql postman python react reactnative redux tailwind typescript
