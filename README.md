@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-#👋 Hello, I'm Kaleab!
+-👋 Hello, I'm Kaleab!
+
 -👨‍💻 Software Engineer | full stack developer
+
 -🔭 Exploring new technologies and developing software solutions
 - 🔭 I’m currently working on full stack web development
 -🌱 Learning more about blockchain, machine learning and artificial intelligence
