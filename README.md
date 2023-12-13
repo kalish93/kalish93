@@ -6,7 +6,7 @@
 
 -🔭 Exploring new technologies and developing software solutions
 
-- 🔭 I’m currently working on full stack web development
+-🔭 I’m currently working on full stack web development
   
 -🌱 Learning more about blockchain, machine learning and artificial intelligence
 
